@@ -1,6 +1,6 @@
 # PDA_Web_Scraping_Project
 
-Analyzing Price of Drug from GoodRx
+Analyzing Price of Drugs from GoodRx
 
 My web scraping project aims to analyze the drug prices by pharmacy and fill methods, to determine the best pricing and if joining the club membership would be worthwhile. 
 
