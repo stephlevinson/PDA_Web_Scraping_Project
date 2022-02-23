@@ -1,0 +1,431 @@
+alt_drug_name,alt_drug_price,brand_name,drug_class,generic_status,info_name,medical_use,name
+,,,,,,,Wavesense
+,,,,,,,Recedo
+"Olanzapine (Zyprexa),Aripiprazole (Abilify),Quetiapine (Seroquel)","4.50,10.67,3.90","Zyprexa, Zyprexa Zydis",Atypical antipsychotic,Lower-cost generic available,Olanzapine,Schizophrenia,Zyprexa
+"Yupelri (revefenacin),Lonhala Magnair (glycopyrrolate),Incruse Ellipta (umeclidinium)","1055.54,1229.04,351.22",Yupelri,LAMA,No lower-cost generic available,Yupelri,Chronic obstructive pulmonary disease (COPD),Yupelri
+"Xeomin (incobotulinumtoxinA),Dysport (abobotulinumtoxinA),Botox Cosmetic (onabotulinumtoxinA)","253.26,785.35,1152.72",Xeomin,Neuromuscular blocker,No lower-cost generic available,Xeomin,Long-term excessive drooling (sialorrhea) in people 2 years and older,Xeomin
+"Viibryd (vilazodone),Cymbalta (duloxetine),Lexapro (escitalopram)","288.00,5.43,3.60","Viibryd, Viibryd Starter Pack",SSRI / 5HT1A receptor partial agonist,No lower-cost generic available,Viibryd,Depression,Viibryd
+,,Ulesfia (brand no longer available),Antiparisitic,No lower-cost generic available,Ulesfia,,Ulesfia
+"Timolol (Timoptic),Betaxolol (Betoptic S),Latanoprost (Xalatan)","5.64,21.01,10.88","Timoptic, Timoptic-XE, Timoptic Ocudose, Istalol, Betimol",Beta-blocker,Lower-cost generic available,Timolol,High pressure in the eye caused by ocular hypertension (high pressure inside the eye) or open-angle glaucoma (the most common type of glaucoma),Timolol
+,,,,,Sulfacetamide,,Sulfacetamide
+"Lisinopril (Prinivil, Zestril),Benazepril (Lotensin)","3.00,3.30","Zestril, Prinivil, Qbrelis",ACE inhibitor,Lower-cost generic available,Lisinopril,High blood pressure (hypertension),Qbrelis
+"Progesterone (Prometrium),Medroxyprogesterone (Provera),Norethindrone acetate (Aygestin)","11.54,9.30,14.95",Prometrium,Progesterone,Lower-cost generic available,Progesterone,Lack of menstrual periods due to hormone imbalance,Progesterone
+"Oxycodone,Morphine,Hydromorphone (Dilaudid)","15.79,20.03,10.42","Roxicodone, Oxycontin, Xtampza ER, Oxaydo",Opioid,Lower-cost generic available,Oxycodone,Severe pain that isn't relieved by alternative treatments,Oxycodone Er
+"Nifedipine (Procardia XL),Norvasc (amlodipine),Isosorbide mononitrate (Monoket)","9.54,3.30,12.60","Procardia XL, Procardia",Calcium channel blocker (CCB),Lower-cost generic available,Nifedipine Er Procardia Xl,Chest pain (angina),Nifedipine Er  Adalat Cc
+"Methimazole (Tapazole),Propylthiouracil","5.96,20.09",Tapazole,Antithyroid,Lower-cost generic available,Methimazole,Hyperthyroidism,Methimazole
+"Levetiracetam (Keppra),Phenytoin (Dilantin),Carbamazepine (Tegretol)","9.00,9.99,17.23","Keppra, Keppra XR, Roweepra, Elepsia XR",Antiepileptic,Lower-cost generic available,Levetiracetam,Partial-onset seizures,Levetiracetam Er
+"Ketoprofen,Ibuprofen (Advil),Etodolac","44.63,4.50,13.75",Orudis (brand no longer available),NSAID,Lower-cost generic available,Ketoprofen,Osteoarthritis,Ketoprofen
+"Jalyn (dutasteride / tamsulosin),Tamsulosin (Flomax),Proscar (finasteride)","92.69,2.40,13.50",Jalyn,5-alpha reductase inhibitor / Alpha-1 adrenergic receptor blocker,Lower-cost generic available,Jalyn,Dutasteride,Jalyn
+"Jentadueto,Glucophage (metformin),Januvia (sitagliptin)","436.98,4.00,513.34","Jentadueto, Jentadueto XR",DPP-4 inhibitor / Biguanide,No lower-cost generic available,Jentadueto,Type 2 diabetes,Jentadueto Xr
+,,,,,Jevantique Lo,,Jevantique Lo
+,,,,,Jolivette,,Jolivette
+"Janumet (sitagliptin / metformin),Glucophage (metformin),Januvia (sitagliptin)","489.60,4.00,513.34","Janumet, Janumet XR",DPP-4 inhibitor / Biguanide,No lower-cost generic available,Janumet,Type 2 diabetes,Janumet Xr
+,,,,,Juleber,,Juleber
+,,,,,Jencycla,,Jencycla
+"Jublia (efinaconazole),Ciclopirox (Penlac),Tavaborole (Kerydin)","669.19,15.95,94.46",Jublia,Antifungal,No lower-cost generic available,Jublia,Fungal toenail infection,Jublia
+"Jardiance (empagliflozin),Invokana (canagliflozin),Glucophage (metformin)","533.10,528.90,4.00",Jardiance,SGLT2 inhibitor,No lower-cost generic available,Jardiance,Type 2 diabetes,Jardiance
+,,,,,Jinteli,,Jinteli
+"Januvia (sitagliptin),Invokana (canagliflozin),Janumet (sitagliptin / metformin)","513.34,528.90,489.60",Januvia,DPP-4 inhibitor,No lower-cost generic available,Januvia,Type 2 diabetes,Januvia
+,,,,,Jolessa,,Jolessa
+"Warfarin (Coumadin),Eliquis (apixaban)","2.10,494.40","Coumadin, Jantoven",Anticoagulant,Lower-cost generic available,Warfarin,"Prevention of blood clots, heart attacks, and strokes caused by atrial fibrillation or a heart valve replacement",Jantoven
+,,,,,Junel 1.5 30,,Junel 1.5 30
+,,,,,Junel Fe 1.5 30,,Junel Fe 1.5 30
+,,,,,Junel 1 20,,Junel 1 20
+,,,,,Junel Fe 24,,Junel Fe 24
+,,,,,Junel Fe 1 20,,Junel Fe 1 20
+,,,,,K Phos Neutral,,K Phos Neutral
+"Potassium chloride (Klor-Con),Effer-K (potassium bicarbonate)","35.26,17.48","K-Tab, Klor-Con, Klor-Con Sprinkle",Dietary supplement,Lower-cost generic available,Potassium Chloride,Treatment of low potassium,K Tab
+,,"Kayexalate (brand no longer available), Kionex, SPS (branded generics)",Potassium binder,Lower-cost generic available,Sodium Polystyrene Sulfonate,High potassium levels (hyperkalemia),Kionex
+,,,,,Kenalog,,Kenalog
+,,,,,K Phos,,K Phos
+"Kombiglyze XR,Janumet (sitagliptin / metformin),Kazano (alogliptin / metformin)","421.80,489.60,94.57",Kombiglyze XR,DPP4 inhibitor / Biguanide,No lower-cost generic available,Kombiglyze Xr,Type 2 diabetes,Kombiglyze Xr
+"Clonazepam (Klonopin),Xanax (alprazolam),Lexapro (escitalopram)","5.02,6.30,3.60",Klonopin,Benzodiazepine,Lower-cost generic available,Klonopin,Panic disorder,Klonopin
+,,"Zaditor, Alaway, Alaway Childrens Allergy, Claritin Eye, Eye Itch Relief",Antihistamine,No lower-cost generic available,Zaditor,Allergy-related itchy eyes,Ketotifen
+,,,,,Kaitlib Fe,,Kaitlib Fe
+,,,,,Kelnor,,Kelnor
+,,,,,Kariva,,Kariva
+,,,,,Kurvelo,,Kurvelo
+,,,,,Klor Con M,,Klor Con M
+"Ketorolac,Ibuprofen (Advil),Celecoxib (Celebrex)","16.73,4.50,6.00","ReadySharp Ketorolac, Toradol (brand no longer available)",NSAID,Lower-cost generic available,Ketorolac,Pain management ,Ketorolac
+"Ketoconazole cream,Ciclopirox (Penlac)","24.05,15.95",Nizoral (brand no longer available),Antifungal,Lower-cost generic available,Ketoconazole,Ringworm,Ketoconazole
+,,Altoprev (extended-release),Statin,Lower-cost generic available,Lovastatin,High cholesterol,Lovastatin
+,,,,,L Methylfolate,,L Methylfolate
+"Xyzal (levocetirizine),Claritin (loratadine),Allegra (fexofenadine)","6.90,4.32,6.98",Xyzal,Antihistamine,Lower-cost generic available,Levocetirizine,Seasonal allergies for people over 2 years old,Levocetirizine
+"Lantus (insulin glargine),Levemir (insulin detemir),Tresiba (insulin degludec)","56.35,455.98,500.77","Lantus, Lantus Solostar",Insulin,Lower-cost generic available,Lantus,Type 1 diabetes,Lantus
+"Labetalol,Coreg (Carvedilol),Lopressor (metoprolol tartrate)","12.09,4.00,3.60",Trandate,Beta blocker,Lower-cost generic available,Labetalol,High blood pressure,Labetalol
+"Claritin (loratadine),Xyzal (levocetirizine),Zyrtec (cetirizine)","4.32,6.90,4.47","Claritin, Alavert, Claritin Reditabs",Antihistamine,Lower-cost generic available,Loratadine,Seasonal allergies,Loratadine
+"Lansoprazole (Prevacid),Esomeprazole (Nexium),Omeprazole (Prilosec)","7.20,10.55,4.20","Prevacid, Prevacid 24HR, Prevacid SoluTab",PPI,Lower-cost generic available,Lansoprazole,Stomach ulcer,Lansoprazole
+"Cytomel (liothyronine),Synthroid (levothyroxine)","23.56,3.30",Cytomel,Triiodothyronine (T3),Lower-cost generic available,Liothyronine,Hypothyroidism,Liothyronine
+,,Xylocaine (brand no longer available),Local anesthetic,Lower-cost generic available,Lidocaine,"Numb the red, swollen, and irritated areas in the mouth and throat",Lidocaine
+"Levofloxacin,Ciprofloxacin (Cipro),Augmentin (amoxicillin / clavulanate)","3.70,4.06,12.75",Levaquin (brand no longer available),Fluoroquinolone antibiotic,Lower-cost generic available,Levofloxacin,Pneumonia,Levofloxacin
+"Latanoprost (Xalatan),Lumigan (bimatoprost),Cosopt (dorzolamide / timolol)","10.88,33.66,13.38","Xalatan, Xelpros",Prostaglandin,Lower-cost generic available,Latanoprost,High pressure in the eye caused by ocular hypertension (high pressure inside the eye) or open-angle glaucoma (the most common type of glaucoma),Latanoprost
+,,Zestoretic,ACE inhibitor/Diuretic (water pill) combo,Lower-cost generic available,Zestoretic,High blood pressure (not first choice),Lisinopril Hctz
+"Lamotrigine (Lamictal),Divalproex (Depakote),Lithium","4.50,15.00,46.88","Lamictal, Lamictal XR, Lamictal CD, Lamictal ODT, Subvenite",Antiepileptic,Lower-cost generic available,Lamotrigine,Partial-onset seizures,Lamotrigine
+"Hyzaar (losartan / hydrochlorothiazide),Zestoretic,Benicar HCT (olmesartan / hydrochlorothiazide)","12.62,3.60,15.16",Hyzaar,ARB / Diuretic (water pill) combo,Lower-cost generic available,Hyzaar,High blood pressure (hypertension),Losartan Hctz
+"Lorazepam (Ativan),Xanax (alprazolam),Diazepam (Valium)","6.90,6.30,5.04","Ativan, Lorazepam Intensol",Benzodiazepine,Lower-cost generic available,Lorazepam,Anxiety disorders,Lorazepam
+,,"Synthroid, Euthyrox, Levoxyl, Tirosint, Unithroid",Thyroxine (T4),Lower-cost generic available,Levothyroxine,Hypothyroidism,Levothyroxine
+"Losartan (Cozaar),Diovan (valsartan)","4.38,15.16",Cozaar,ARB,Lower-cost generic available,Losartan,High blood pressure (hypertension),Losartan
+"Meclizine,Scopolamine (Transderm Scop)","4.51,23.81","Antivert, Dramamine Less Drowsy, Bonine",Antihistamine,Lower-cost generic available,Meclizine,"Prevention and treatment of nausea, vomiting, or dizziness from motion sickness",Meclizine
+,,"Methadose, Dolophine, Methadone HCl Intensol",Opioid,Lower-cost generic available,Methadone,Moderate to severe chronic pain,Methadone
+"Modafinil (Provigil),Armodafinil (Nuvigil),Adderall XR","22.95,32.19,27.75",Provigil,Wakefulness-promoting agent,Lower-cost generic available,Modafinil,"Excessive sleepiness due to narcolepsy, shift work disorder, or obstructive sleep apnea",Modafinil
+"Medroxyprogesterone (Provera),Progesterone (Prometrium),Hydroxyprogesterone","9.30,11.54",Provera,Progestin,Lower-cost generic available,Medroxyprogesterone,Lack of menstrual periods due to hormone imbalance,Medroxyprogesterone
+,,,,,Metformin Er Glucophage Xr,,Metformin Er  Glucophage Xr
+,,"Remeron, Remeron SolTab",Atypical antidepressant,Lower-cost generic available,Mirtazapine,Depression,Mirtazapine
+,,"Trexall, Rasuvo, Otrexup, Xatmep, RediTrex",Antimetabolite,Lower-cost generic available,Methotrexate,Certain cancers,Methotrexate
+"Morphine,Oxycodone,Hydromorphone (Dilaudid)","20.03,15.79,10.42","MS Contin, Kadian",Opioid,Lower-cost generic available,Morphine,Pain that isn't relieved by non-opioid medications,Morphine Er
+"Mupirocin (Centany),Polysporin (bacitracin and polymyxin B)",7.93,Centany, Antibiotic,Lower-cost generic available,Mupirocin,Impetigo (a type of bacterial skin infection),Mupirocin
+"Methylphenidate (Ritalin),Atomoxetine (Strattera),Armodafinil (Nuvigil)","17.00,31.30,32.19","Ritalin, Methylin",Stimulant,Lower-cost generic available,Methylphenidate,Attention-deficit/hyperactivity disorder (ADHD),Methylphenidate
+"Lopressor (metoprolol tartrate),Toprol XL (metoprolol succinate),Bisoprolol","3.60,4.35,9.00",Lopressor,Beta blocker,No lower-cost generic available,Metoprolol,High blood pressure,Metoprolol
+"Methocarbamol,Soma (carisoprodol),Cyclobenzaprine","10.51,7.60,3.60",Robaxin (brand tablets no longer available),Muscle relaxant,Lower-cost generic available,Methocarbamol,Muscle discomfort caused by acute (not chronic) conditions when things like rest or physical therapy aren't enough on their own,Methocarbamol
+"Methylphenidate ER,Atomoxetine (Strattera),Vyvanse (lisdexamfetamine)","42.73,31.30,348.93","Concerta, Adhansia XR, Aptensio XR, Metadate CD, QuilliChew ER, Quillivant XR, Ritalin LA, Jornay PM",Stimulant,Lower-cost generic available,Methylphenidate Er,Attention-deficit/hyperactivity disorder (ADHD),Methylphenidate Er
+"Meloxicam (Mobic),Naproxen (Aleve),Topical diclofenac","2.40,2.20,11.70","Mobic, Vivlodex, Anjeso",NSAID,Lower-cost generic available,Meloxicam,Pain caused by rheumatoid arthritis,Meloxicam
+"Glucophage (metformin),Lantus (insulin glargine),Januvia (sitagliptin)","4.00,56.35,513.34","Riomet, Riomet ER",Biguanide,Lower-cost generic available,Metformin,Type 2 diabetes,Metformin
+"Flagyl (metronidazole),Augmentin (amoxicillin / clavulanate),Clindamycin (Cleocin)","3.92,12.75,12.18",Flagyl,Nitroimidazole antibiotic,Lower-cost generic available,Flagyl,Sexually transmitted disease (STD) (such as trichomoniasis) ,Metronidazole
+"Methylprednisolone (Medrol),Prednisone,Cortef (hydrocortisone)","7.59,2.00,7.47","Medrol, SOLU-medrol, DEPO-Medrol, Medrol Dosepak",Corticosteroid,Lower-cost generic available,Methylprednisolone,Allergies,Methylprednisolone
+,,Singulair,Leukotriene receptor antagonist,Lower-cost generic available,Montelukast,Seasonal allergies,Montelukast
+"Toprol XL (metoprolol succinate),Lopressor (metoprolol tartrate),Bisoprolol","4.35,3.60,9.00",Toprol XL,Beta blocker,Lower-cost generic available,Metoprolol Er,High blood pressure,Metoprolol Er
+,,,,,Nikki,,Nikki
+"Norethindrone acetate (Aygestin),Progesterone (Prometrium),Medroxyprogesterone (Depo-Provera)","14.95,11.54,26.50",Aygestin,Progestin,Lower-cost generic available,Norethindrone Acetate,Lack of menstrual periods due to hormonal imbalance,Norethindrone Acetate
+"Novolin 70/30,Humulin 70/30,Novolin R","260.28,99.86,142.99",Novolin 70/30,Insulin,No lower-cost generic available,Novolin 70 30,Type 1 diabetes,Novolin 70 30
+"Nabumetone,Meloxicam (Mobic),Indomethacin (Indocin)","11.97,2.40,6.90","Relafen, Relafen DS (branded generics)",NSAID,Lower-cost generic available,Nabumetone,Rheumatoid arthritis,Nabumetone
+"Nortriptyline (Pamelor),Amitriptyline,Imipramine","3.30,2.40,7.20",Pamelor,Tricyclic antidepressant,Lower-cost generic available,Nortriptyline,Depression,Nortriptyline
+"Nystatin/triamcinolone,Nystatin,Econazole","14.22,6.46,25.11",Mycolog II (brand no longer available),Antifungal / Corticosteroid,Lower-cost generic available,Nystatin Triamcinolone,Fungal skin infection due to ,Nystatin Triamcinolone
+,,,,,Norethindrone,,Norethindrone
+"Naltrexone (Vivitrol),Disulfiram (Antabuse),Buprenorphine/naloxone","20.85,32.58,32.55",Vivitrol,Opioid antagonist,Lower-cost generic available,Naltrexone,Alcohol dependence,Naltrexone
+"Nadolol (Corgard),Propranolol (Inderal),Lopressor (metoprolol tartrate)","12.00,5.40,3.60",Corgard,Beta blocker,Lower-cost generic available,Nadolol,High blood pressure (hypertension),Nadolol
+"Nitrofurantoin (Macrobid),Bactrim (sulfamethoxazole / trimethoprim),Fosfomycin (Monurol)","7.75,6.39,25.64","Macrobid, Macrodantin, Furadantin",Nitrofuran antibiotic,Lower-cost generic available,Nitrofurantoin,Treatment of urinary tract infections,Nitrofurantoin
+"Nitrostat (nitroglycerin),Nitrolingual (nitroglycerin),Nitro-Bid (nitroglycerin)","9.99,52.10,40.41",Nitrostat,Nitrate,Lower-cost generic available,Nitroglycerin,Angina (chest pain due to tight blood vessels in the heart),Nitroglycerin
+"Maxitrol,Tobradex (tobramycin / dexamethasone)","9.13,37.32",Maxitrol,Antibiotic / Corticosteroid,Lower-cost generic available,Maxitrol,Inflamed eyes that have a bacterial infection,Neomycin Polymyxin B  Dexamethasone
+"Armour Thyroid (thyroid desiccated),Synthroid (levothyroxine)","31.21,3.30","Armour Thyroid, Westhroid, Nature-Throid",T3 / T4 combo,No lower-cost generic available,Armour Thyroid,Hypothyroidism,Nature Throid
+"Nystatin,Ketoconazole cream","6.46,24.05",Nystop,Antifungal,Lower-cost generic available,Nystatin,Skin yeast infections caused by ,Nystatin
+,,,,,,,Onetouch
+,,,,,Neomycin Polymyxin B Hydrocortisone,,Neomycin Polymyxin B  Hydrocortisone
+"Naproxen (Aleve),Ibuprofen (Advil),Meloxicam (Mobic)","2.20,4.50,2.40","Aleve, Naprosyn, EC-Naprosyn, Naprelan, Anaprox DS",NSAID,Lower-cost generic available,Naproxen,Headaches and migraines,Naproxen
+,,,,,Np Thyroid,,Np Thyroid
+,,,,,Ocella,,Ocella
+"Oxymorphone,Hydromorphone (Dilaudid),Nucynta (tapentadol)","58.67,10.42,521.82",Opana (brand no longer available),Opioid,Lower-cost generic available,Oxymorphone,Acute (short-term) severe pain (immediate-release tablet only),Oxymorphone Er
+"Orphenadrine,Cyclobenzaprine,Baclofen","11.99,3.60,13.62",Norflex (brand no longer available),Muscle relaxant,Lower-cost generic available,Orphenadrine Er,Muscle spasms causing pain,Orphenadrine Er
+"Omega-3 acid (Lovaza),Fenofibrate,Vascepa (icosapent ethyl)","26.39,5.10,83.79",Lovaza,Antilipemic,Lower-cost generic available,Omega 3 Acid Ethyl Esters,High triglycerides (TG) in people with TG levels greater than 500 mg/dL,Omega 3 Acid Ethyl Esters
+"Pataday (olopatadine),Azelastine,Acular (ketorolac eye drops)","8.28,13.20,11.46","Pataday Once Daily Relief, Pataday Twice Daily Relief, Pataday Once Daily Relief Extra Strength",Antihistamine,Lower-cost generic available,Olopatadine,Eye itching or redness due to allergies,Olopatadine
+"Oxybutynin (Ditropan),Solifenacin (Vesicare),Tolterodine (Detrol)","9.90,24.54,25.35","Ditropan, Ditropan XL",Anticholinergic / Antimuscarinic,Lower-cost generic available,Oxybutynin Er,Overactive bladder,Oxybutynin
+"Benicar HCT (olmesartan / hydrochlorothiazide),Zestoretic,Diovan HCT","15.16,3.60,18.49",Benicar HCT,ARB / Diuretic (water pill) combo,Lower-cost generic available,Benicar Hct,High blood pressure,Olmesartan Hctz
+"Oxcarbazepine (Trileptal),Lamotrigine (Lamictal),Phenytoin (Dilantin)","9.00,4.50,9.99","Trileptal, Oxtellar XR",Antiepileptic,Lower-cost generic available,Oxcarbazepine,Partial-onset seizures,Oxcarbazepine
+"Benicar (olmesartan),Losartan (Cozaar),Lisinopril (Prinivil, Zestril)","11.75,4.38,3.00",Benicar,ARB,Lower-cost generic available,Olmesartan,High blood pressure,Olmesartan
+"Ofloxacin,Ciprofloxacin (Cipro),Levofloxacin","85.77,4.06,3.70",Floxin (brand no longer available),Fluoroquinolone antibiotic,Lower-cost generic available,Ofloxacin,Chronic obstructive pulmonary disease (COPD) flare-ups caused by infection,Ofloxacin
+,,Tamiflu,Antiviral,Lower-cost generic available,Tamiflu,Flu treatment (flu types A and B) in patients 2 weeks of age and older,Oseltamivir
+"Omeprazole (Prilosec),Esomeprazole (Nexium),Lansoprazole (Prevacid)","4.20,10.55,7.20","Prilosec, Prilosec OTC",PPI,Lower-cost generic available,Omeprazole,Stomach ulcer,Omeprazole
+"Zofran (ondansetron),Promethazine","12.99,6.00","Zofran, Zofran ODT ",Antiemetic,Lower-cost generic available,Ondansetron,Prevention of nausea and vomiting due to cancer medications (chemotherapy),Ondansetron
+"Percocet (oxycodone / acetaminophen),Norco (hydrocodone / acetaminophen),Hydrocodone/ibuprofen","10.06,18.25,34.54","Percocet, Endocet, Nalocet, Prolate",Opioid / Analgesic,Lower-cost generic available,Percocet,Oxycodone,Oxycodone Acetaminophen
+"Pramipexole (Mirapex),Sinemet (carbidopa / levodopa),Ropinirole (Requip)","4.50,9.00,2.10","Mirapex, Mirapex ER",Dopamine agonist,Lower-cost generic available,Pramipexole,Parkinson's disease,Pramipexole
+"Permethrin,Sklice (ivermectin lotion)","21.60,250.24",Nix,Pyrethroid antiparasitic,Lower-cost generic available,Permethrin,Scabies ,Permethrin
+"Promethazine / codeine,Robitussin AC (guaifenesin / codeine),Hydrocodone / chlorpheniramine","7.53,7.35",Phenergan with codeine (brand no longer available),Phenothiazine / Opioid,Lower-cost generic available,Promethazine Codeine,"Respiratory symptoms caused by allergies or the common cold, including cough, runny nose, and sneezing",Promethazine Codeine
+"Actos (pioglitazone),Glucotrol (glipizide),Repaglinide","8.10,3.60,15.55",Actos,Thiazolidinedione,Lower-cost generic available,Pioglitazone,Type 2 diabetes,Pioglitazone
+"Promethazine DM,Promethazine VC,Promethazine","8.55,16.28,6.00",Pherazine DM (brand no longer available),Phenothiazine / Antitussive ,Lower-cost generic available,Promethazine Dm,Promethazine,Promethazine Dm
+"Propranolol (Inderal),Lopressor (metoprolol tartrate),Atenolol (Tenormin)","5.40,3.60,3.30","Inderal, Inderal LA, Innopran XL",Beta blocker,Lower-cost generic available,Propranolol,High blood pressure - ,Propranolol Er
+"Penicillin (Penicillin VK),Amoxicillin (Amoxil),Cephalexin (Keflex)","7.54,4.83,3.64",Veetids (brand no longer available),Penicillin antibiotic,Lower-cost generic available,Penicillin V Potassium,"Streptococcus infections, including strep throat and scarlet fever",Penicillin V Potassium
+"Phenazopyridine (Pyridium),Ibuprofen (Advil),Methenamine hippurate (Hiprex)","5.34,4.50,33.43","Pyridium, AZO, AZO Maximum Strength, Uristat",Analgesic,Lower-cost generic available,Phenazopyridine,"Urinary pain, burning, urgency, and frequency caused by infection, trauma, catheter use, or surgery",Phenazopyridine
+"Paxil (paroxetine),Zoloft (sertraline),Prozac (fluoxetine)","3.60,2.40,3.30","Paxil, Pexeva",SSRI,Lower-cost generic available,Paroxetine,Depression,Paroxetine
+"Promethazine,Zofran (ondansetron)","2.88,12.99","Phenergan (brand no longer available), Promethegan",Phenothiazine,Lower-cost generic available,Promethazine,Treatment or prevention of nausea and vomiting,Promethazine
+"Prednisolone (Pred Forte),Dexamethasone (Maxidex)","23.93,82.33","Pred Forte, Pred Mild, Omnipred",Corticosteroid,Lower-cost generic available,Prednisolone Acetate,Eye injury,Prednisolone Acetate
+"Pravastatin (Pravachol),Rosuvastatin (Crestor),Atorvastatin (Lipitor)","16.76,4.20,4.50",Pravachol,Statin,Lower-cost generic available,Pravastatin,High cholesterol,Pravastatin
+,,,,,,,Quflora
+"Albuterol (ProAir, Ventolin, Proventil),Xopenex (levalbuterol)","19.05,32.39","ProAir HFA, ProAir RespiClick, Ventolin HFA, Proventil HFA",SABA,Lower-cost generic available,Albuterol,Asthma,Proair Hfa
+"Phenobarbital,Phenytoin (Dilantin),Primidone (Mysoline)","12.33,9.99,10.81",Luminal (brand no longer available),Barbiturate,Lower-cost generic available,Phenobarbital,Seizures,Phenobarbital
+,,Protonix,PPI,Lower-cost generic available,Protonix,Gastroesophageal Reflux Disease (GERD) with esophagitis,Pantoprazole
+"Prednisone,Methylprednisolone (Medrol),Cortef (hydrocortisone)","2.00,7.59,7.47","Rayos (extended-release), Prednisone Intensol (solution), Deltasone (this brand no longer available)",Corticosteroid,Lower-cost generic available,Prednisone,Allergies,Prednisone
+,,"Adipex-P, Lomaira",Sympathomimetics,Lower-cost generic available,Adipex P,Obesity (short-term add-on treatment),Phentermine
+"Diphenhydramine (Benadryl),Claritin (loratadine),Doxylamine (Unisom SleepTabs)","2.27,4.32,4.86","Benadryl Allergy, ZzzQuil, Simply Sleep, Unisom SleepGels, Unisom SleepMelts",Antihistamine,Lower-cost generic available,Diphenhydramine,Seasonal or year-round allergies,Q Dryl
+"Cholestyramine (Prevalite),Colestipol (Colestid),Colesevelam (Welchol)","33.02,22.94,29.71",Prevalite,Bile acid sequestrant,Lower-cost generic available,Cholestyramine,High cholesterol (in combination with diet),Questran
+"Qtern (dapagliflozin / saxagliptin),Qternmet XR,Kombiglyze XR","506.20,421.80",Qtern,SGLT2 / DPP-4 Inhibitor,No lower-cost generic available,Qtern,Dapagliflozin,Qtern
+,,,,,Qbrexza,,Qbrexza
+"Quinidine,Flecainide,Amiodarone (Pacerone)","20.82,20.40,9.00",Quinora (brand no longer available),Antiarrhythmic,Lower-cost generic available,Quinidine,Treatment of atrial fibrillation or flutter,Quinidine Gluconate Er
+"Topiramate (Topamax),Lamotrigine (Lamictal),Divalproex (Depakote)","1.80,4.50,15.00","Topamax, Qudexy XR, Trokendi XR",Antiepileptic,Lower-cost generic available,Topiramate,"Seizures (partial seizures, tonic-clonic seiures, Lennox-Gastaut syndrome)",Qudexy Xr
+,,,,,,,Reno Caps
+,,,,,Quasense,,Quasense
+"Qnasl (beclomethasone),Nasonex (mometasone),Flonase (fluticasone)","246.81,31.21,13.47",Qnasl,Corticosteroid,No lower-cost generic available,Qnasl,Seasonal nasal allergies,Qnasl
+"Accuretic (quinapril / hydrochlorothiazide),Zestoretic,Benicar HCT (olmesartan / hydrochlorothiazide)","26.44,3.60,15.16","Accuretic, Quinaretic",ACE inhibitor/Diuretic (water pill) combo,Lower-cost generic available,Accuretic,High blood pressure (combination pill not first choice),Quinapril Hctz
+"Quinine (Qualaquin),Malarone (atovaquone / proguanil),Chloroquine","32.71,38.80,62.11",Qualaquin,Antimalarial,Lower-cost generic available,Quinine,Treatment of uncomplicated malaria caused by ,Quinine
+"Qsymia (phentermine / topiramate ER),Orlistat,Contrave (naltrexone / bupropion)","192.81,47.98,149.45",Qsymia,Sympathomimetic / Antiepileptic,No lower-cost generic available,Qsymia,Phentermine,Qsymia
+"Quinapril (Accupril),Lisinopril (Prinivil, Zestril),Benazepril (Lotensin)","16.20,3.00,3.30",Accupril,ACE inhibitor,Lower-cost generic available,Quinapril,Heart failure,Quinapril
+"Qvar (beclomethasone),Asmanex (mometasone),Pulmicort Flexhaler (budesonide)","222.98,228.96,38.39",Qvar RediHaler,Inhaled corticosteroid (ICS),No lower-cost generic available,Qvar,Asthma,Qvar
+"Quetiapine (Seroquel),Risperidone (Risperdal),Aripiprazole (Abilify)","3.90,1.50,10.67","Seroquel, Seroquel XR",Atypical antipsychotic,Lower-cost generic available,Quetiapine,Schizophrenia,Quetiapine Er
+"Rivastigmine (Exelon),Donepezil (Aricept),Memantine (Nameda)","65.50,2.40,12.00",Exelon,Acetylcholinesterase Inhibitor,Lower-cost generic available,Exelon,Dementia related to Alzheimer's disease (AD),Rivastigmine
+"Rynex DM,Bromfed DM,Histex-DM","5.04,9.00,9.30","Rynex DM, Dimetapp Cold and Cough, Lohist DM, Dimaphen DM",Antihistamine / Cough suppressant / Decongestant,Lower-cost generic available,Rynex Dm,Brompheniramine,Rynex Dm
+"Restasis (cyclosporine),Polyvinyl alcohol (Artificial Tears),Freshkote Preservative Free","633.72,4.74,33.27","Restasis, Cequa",Calcineurin inhibitor,No lower-cost generic available,Restasis,Chronic dry eyes (keratoconjunctivitis sicca),Restasis
+"Rhopressa (netarsudil),Rocklatan (netarsudil / latanoprost),Vyzulta (latanoprostene bunod)","295.99,312.74,228.31",Rhopressa,ROCK inhibitor,No lower-cost generic available,Rhopressa,Open-angle glaucoma,Rhopressa
+"Ranolazine (Ranexa),Isosorbide mononitrate (Monoket),Nifedipine (Procardia XL)","26.87,12.60,9.54",Ranexa,Antianginal,Lower-cost generic available,Ranolazine,Angina (chest pain due to tight blood vessels in the heart),Ranexa
+"Rasagiline (Azilect),Selegiline,Xadago (safinamide)","34.80,38.00,843.00",Azilect,MAO-B inhibitor,Lower-cost generic available,Rasagiline,Parkinson's disease (PD),Rasagiline
+"Repaglinide,Diabeta (glyburide),Starlix (nateglinide)","15.55,13.54,27.72",Prandin (brand no longer available),Meglitinide,Lower-cost generic available,Repaglinide,Type 2 diabetes,Repaglinide
+"Rifampin (Rifadin),Rifabutin (Mycobutin),Priftin (rifapentine)","25.35,218.26,100.08",Rifadin,Rifamycin antibiotic,Lower-cost generic available,Rifampin,Tuberculosis (TB),Rifampin
+"Risedronate (Actonel),Alendronate (Fosamax),Ibandronate (Boniva)","49.99,11.97,13.65","Actonel, Atelvia",Bisphosphonate,Lower-cost generic available,Risedronate,Osteoporosis in women who have gone through menopause (postmenopause),Risedronate
+"Ropinirole (Requip),Pramipexole (Mirapex),Sinemet (carbidopa / levodopa)","2.10,4.50,9.00","Requip, Requip XL",Dopamine agonist,Lower-cost generic available,Ropinirole,Parkinson's disease,Ropinirole Er
+"Raloxifene (Evista),Ibandronate (Boniva)","38.46,13.65",Evista,Selective estrogen receptor modulator,Lower-cost generic available,Raloxifene,Osteoporosis in women who have gone through menopause (postmenopausal),Raloxifene
+"Rabeprazole (Aciphex),Omeprazole (Prilosec),Lansoprazole (Prevacid)","13.00,4.20,7.20","Aciphex, Aciphex Sprinkle",PPI,Lower-cost generic available,Rabeprazole Dr,Gastroesophageal reflux disease (GERD),Rabeprazole Dr
+"Altace (ramipril),Lisinopril (Prinivil, Zestril),Enalapril (Vasotec)","3.60,3.00,8.40",Altace,ACE inhibitor,Lower-cost generic available,Ramipril,High blood pressure,Ramipril
+"Risperidone (Risperdal),Quetiapine (Seroquel),Aripiprazole (Abilify)","1.50,3.90,10.67","Risperdal, Risperdal M-Tab",Atypical antipsychotic,Lower-cost generic available,Risperidone,Schizophrenia,Risperidone
+"Rizatriptan (Maxalt),Sumatriptan (Imitrex),Naratriptan (Amerge)","13.99,11.07,14.11","Maxalt, Maxalt-MLT",Triptan,Lower-cost generic available,Rizatriptan,Migraine,Rizatriptan
+,,Zantac (brand no longer available),Histamine H2 antagonist,No lower-cost generic available,Ranitidine,,Ranitidine
+"Rosuvastatin (Crestor),Atorvastatin (Lipitor),Simvastatin (Zocor)","4.20,4.50,2.40","Crestor, Ezallor Sprinkle",Statin,Lower-cost generic available,Rosuvastatin,High cholesterol,Rosuvastatin
+"Avar (sulfacetamide / sulfur),Dapsone (Aczone),Ziana (clindamycin / tretinoin)","31.21,123.05,87.51","Avar, Plexion, SulfaCleanse 8/4, Sumadan",Topical antibiotic,Lower-cost generic available,Sulfacetamide Sulfur,Sulfacetamide,Sulfacetamide Sulfur
+,,,,,Sf 5000 Plus,,Sf 5000 Plus
+,,"SSD, Silvadene, Thermazene",Antibiotic,Lower-cost generic available,Ssd,Prevention and treatment of infections caused by second- and third-degree burns,Ssd
+,,Suprep bowel prep kit,Osmotic Laxative,No lower-cost generic available,Suprep Bowel Prep,Colon cleansing prior to colonoscopy (osmotic laxative),Suprep Bowel Prep
+,,,,,Syeda,,Syeda
+"Symbicort (budesonide / formoterol),Advair (fluticasone / salmeterol),Dulera (mometasone / formoterol)","204.48,89.88,318.04",Symbicort,IC / LABA,Lower-cost generic available,Symbicort,Asthma,Symbicort
+,,Shingrix,Vaccine,No lower-cost generic available,Shingrix,Prevention of shingles,Shingrix
+"Sulfasalazine (Azulfidine),Methotrexate,Mesalamine (Lialda)","15.97,14.00,94.05","Azulfidine, Azulfidine En-Tabs",Anti-inflammatory,Lower-cost generic available,Sulfasalazine,Ulcerative colitis (UC),Sulfasalazine
+"Sotalol (Betapace),Amiodarone (Pacerone),Dofetilide (Tikosyn)","12.88,9.00,24.05","Betapace, Sorine, Sotylize",Antiarrhythmic,Lower-cost generic available,Sotalol,Treatment of ventricular arrhythmias,Sotalol
+"Sucralfate (Carafate),Famotidine (Pepcid AC),Omeprazole (Prilosec)","11.40,12.33,4.20",Carafate,Antiulcer,Lower-cost generic available,Sucralfate,Duodenal (intestinal) ulcers,Sucralfate
+"Buprenorphine/naloxone,Methadone (Methadose)","32.55,11.24","Suboxone, Zubsolv, Bunavail",Opioid partial agonist / Opioid antagonist,Lower-cost generic available,Buprenorphine Naloxone,Buprenorphine,Suboxone Film
+,,,,,Sprintec,,Sprintec
+"Aldactone (spironolactone),Lisinopril (Prinivil, Zestril),Losartan (Cozaar)","4.80,3.00,4.38",Aldactone,Aldosterone receptor antagonist,Lower-cost generic available,Spironolactone,High blood pressure (not first choice),Spironolactone
+"Simvastatin (Zocor),Atorvastatin (Lipitor)","2.40,4.50",Zocor,Statin,Lower-cost generic available,Simvastatin,High cholesterol,Simvastatin
+"Sumatriptan (Imitrex),Rizatriptan (Maxalt),Zolmitriptan (Zomig)","11.07,13.99,20.05",Imitrex,Triptan,Lower-cost generic available,Sumatriptan,Migraine,Sumatriptan
+"Bactrim (sulfamethoxazole / trimethoprim),Ciprofloxacin (Cipro),Cephalexin (Keflex)","6.39,4.06,3.64","Bactrim, Septra, Bactrim DS, Septra DS, Sulfatrim Pediatric",Sulfonamide Antibiotic,Lower-cost generic available,Sulfamethoxazole Trimethoprim,Urinary tract infection,Sulfamethoxazole Trimethoprim
+"Zoloft (sertraline),Prozac (fluoxetine),Lexapro (escitalopram)","2.40,3.30,3.60",Zoloft,SSRI,Lower-cost generic available,Zoloft,Depression,Sertraline
+"Viagra (sildenafil),Cialis (tadalafil),Levitra (vardenafil)","14.47,12.09,57.14",Viagra,PDE-5 inhibitor,Lower-cost generic available,Viagra,Erectile dysfunction,Sildenafil
+"Terazosin,Doxazosin (Cardura),Alfuzosin (Uroxatral)","8.17,13.82,8.10",Hytrin (brand no longer available),Alpha blocker,Lower-cost generic available,Terazosin,Enlarged prostate (benign prostatic hyperplasia or BPH),Terazosin
+"Telmisartan (Micardis),Losartan (Cozaar),Lisinopril (Prinivil, Zestril)","13.41,4.38,3.00",Micardis,ARB,Lower-cost generic available,Telmisartan,High blood pressure,Telmisartan
+"Testosterone gel,Testosterone topical solution,Androderm (testosterone patch)","51.80,93.77,604.91","Testim, AndroGel 1%, AndroGel 1.62%, Fortesta, Vogelxo",Testosterone replacement,Lower-cost generic available,Testosterone,Low testosterone (hypogonadism),Testosterone
+"Triazolam (Halcion),Eszopiclone (Lunesta),Temazepam (Restoril)","33.99,9.90,5.97",Halcion,Benzodiazepine,Lower-cost generic available,Triazolam,Insomnia (difficulty sleeping),Triazolam
+"Dyazide (triamterene / hydrochlorothiazide),Furosemide (Lasix),Hydrochlorothiazide (Microzide)","2.40,2.40,2.10","Dyazide, Maxzide",Diuretic (water pill),No lower-cost generic available,Triamterene Hctz,High blood pressure (not first choice),Triamterene Hctz
+"Tobradex (tobramycin / dexamethasone),Maxitrol","37.32,9.13","TobraDex, TobraDex ST",Antibiotic / Corticosteroid,Lower-cost generic available,Tobradex,Inflamed eyes that have a bacterial infection,Tobramycin Dexamethasone
+,,,,,Tri Sprintec,,Tri Sprintec
+"Lamisil (terbinafine),Ciclopirox (Penlac),Lotrimin AF (clotrimazole)","13.50,15.95,6.99","Lamisil, Lamisil AT",Antifungal,Lower-cost generic available,Terbinafine,Athlete's foot (OTC topicals),Terbinafine
+"Temazepam (Restoril),Eszopiclone (Lunesta)","5.97,9.90",Restoril,Benzodiazepine,Lower-cost generic available,Temazepam,Short-term treatment of insomnia (trouble sleeping),Temazepam
+,,"Trianex, Triderm, Oralone, Kenalog",Corticosteroid,Lower-cost generic available,Triamcinolone,Skin inflammation disorders,Triamcinolone
+"Tacrolimus (Prograf),Cyclosporine (Sandimmune),Sirolimus (Rapamune)","49.40,175.99,110.61","Prograf, Astagraf XL, Envarsus XR",Immunosuppressant,Lower-cost generic available,Tacrolimus,"Prevention of heart, liver, and kidney transplant rejection",Tacrolimus
+"Tizanidine (Zanaflex),Baclofen","8.09,13.62",Zanaflex,Alpha-2 adrenergic receptor agonist,Lower-cost generic available,Tizanidine,"Muscle spasticity (stiff, flexed muscles that won't relax)",Tizanidine
+"Cialis (tadalafil),Viagra (sildenafil),Levitra (vardenafil)","12.09,14.47,57.14",Cialis,PDE-5 inhibitor,Lower-cost generic available,Cialis,Erectile dysfunction,Tadalafil Cialis
+,,,,,Tretinoin,,Tretinoin
+"Trazodone,Celexa (citalopram),Amitriptyline","3.30,3.00,2.40",Desyrel (brand no longer available),SSRI,Lower-cost generic available,Trazodone,Depression,Trazodone
+"Tamsulosin (Flomax),Alfuzosin (Uroxatral),Doxazosin (Cardura)","2.40,8.10,13.82",Flomax,Alpha-1 adrenergic receptor blocker,Lower-cost generic available,Tamsulosin,"Enlarged prostate (benign prostatic hyperplasia, BPH)",Tamsulosin
+"Testosterone cypionate (Depo-Testosterone),Testosterone enanthate injection,Aveed (testosterone undecanoate)","19.82,32.28",Depo-Testosterone,Testosterone replacement,Lower-cost generic available,Testosterone Cypionate,Low testosterone (hypogonadism),Testosterone Cypionate
+,,"Ultram, ConZip",Opioid,Lower-cost generic available,Tramadol,Pain ,Tramadol
+"Potassium citrate (Urocit-K),Allopurinol (Zyloprim)",2.40,Urocit-K,Alkalinizing agent,Lower-cost generic available,Potassium Citrate,Prevention and treatment of kidney stones,Urocit K
+"Alfuzosin (Uroxatral),Tamsulosin (Flomax),Minipress (prazosin)","8.10,2.40,10.99",Uroxatral,Alpha-1 adrenergic receptor blocker,Lower-cost generic available,Alfuzosin,Signs and symptoms of BPH,Uroxatral
+,,,,,Utibron,,Utibron
+"Halobetasol (Ultravate),Clobetasol (Clobex)","41.12,16.56","Ultravate, Bryhali, Lexette",Corticosteroid,Lower-cost generic available,Halobetasol,Plaque psoriasis - ,Ultravate
+"Uribel,Hyophen,Phenazopyridine (Pyridium)","36.95,54.13,5.34","Uribel, Urelle, Ustell, Urimar-T, Utira-C",Urinary antispasmodic / Antiseptic,No lower-cost generic available,Uribel,Hyoscyamine sulfate relaxes the bladder muscle to limit bladder spasms and the urge to urinate. ,Utira C
+"Urea,Lactic acid,Imiquimod","12.38,15.04","Utopic, Keralac, Umecta",Topical skin product,Lower-cost generic available,Urea,Hyperkeratosis (abnormally thick or tough skin or nails),Utopic
+,,,,,Uceris,,Uceris
+,,,,,Urogesic Blue,,Urogesic Blue
+,,,,,Uloric,,Uloric
+,,"Actigall, Urso 250, Urso Forte",Bile acid,Lower-cost generic available,Ursodiol,Dissolve gallstones,Ursodiol
+"Vancomycin (Vancocin),Dificid (fidaxomicin),Daptomycin (Cubicin)","75.95,4344.57","Vancocin, FIRVANQ",Glycopeptide antibiotic,Lower-cost generic available,Vancomycin,Clostridioides difficile,Vancomycin
+"Valproic acid,Ethosuximide (Zarontin),Levetiracetam (Keppra)","22.74,41.18,9.00",Depakene (brand no longer available),Antiepileptic,Lower-cost generic available,Valproic Acid,Complex partial seizures,Valproic Acid
+"Levitra (vardenafil),Viagra (sildenafil),Cialis (tadalafil)","57.14,14.47,12.09","Levitra, Staxyn",PDE-5 inhibitor,Lower-cost generic available,Levitra,Erectile dysfunction,Vardenafil
+,,,,,Vienva,,Vienva
+,,,,,Viorele,,Viorele
+"Verapamil,Diltiazem (Cardizem)","8.69,12.30",Calan (brand no longer available),Calcium channel blocker (CCB),Lower-cost generic available,Verapamil,High blood pressure,Verapamil
+"Vivotif,Typhim Vi","95.46,123.25",Vivotif,Vaccine,No lower-cost generic available,Vivotif,Prevention of typhoid fever in adults and children 6 years or older ,Vivotif
+"Robitussin AC (guaifenesin / codeine),Benzonatate (Tessalon),Mucinex DM (guaifenesin / dextromethorphan)","7.35,6.30,11.91","Cheratussin AC, Iophen C-NR, Guaifenesin AC, Virtussin AC, Robitussin AC (brand no longer available)",Opioid / Expectorant,Lower-cost generic available,Guaifenesin Codeine,Coughs with mucus caused by respiratory infections like the common cold,Virtussin Ac
+"Vitamin D3 (cholecalciferol),Vitamin D2 (ergocalciferol)","2.94,5.80","Vitamin D3, Decalcitrol, Decara High Potency Vitamin D3, Enfamil D-Vi-Sol, D-Trol",Dietary supplement,Lower-cost generic available,Vitamin D3,Hypoparathyroidism (low parathyroid hormone levels),Vitamin D3
+"Verapamil ER (Verelan),Verapamil,Diltiazem extended-release","9.00,8.71,8.26","Calan SR, Verelan, Verelan PM ",Calcium channel blocker (CCB),Lower-cost generic available,Verapamil Er,High blood pressure ,Verapamil Er
+"Vyvanse (lisdexamfetamine),Adderall XR,Adderall IR","348.93,27.75,11.41",Vyvanse,Central Nervous System Stimulant,No lower-cost generic available,Vyvanse,Attention-deficit/hyperactivity disorder (ADHD) (adults and children aged 6 and over),Vyvanse
+"Venlafaxine (Effexor),Cymbalta (duloxetine),Pristiq (desvenlafaxine)","6.60,5.43,20.83","Effexor, Effexor XR",SNRI,Lower-cost generic available,Venlafaxine,Major depressive disorder,Venlafaxine
+"Diovan (valsartan),Losartan (Cozaar)","15.16,4.38",Diovan,ARB,Lower-cost generic available,Valsartan,High blood pressure (hypertension),Valsartan
+"Diovan HCT,Micardis HCT,Benicar HCT (olmesartan / hydrochlorothiazide)","18.49,82.33,15.16",Diovan HCT,ARB / Diuretic (water pill) combo,Lower-cost generic available,Diovan Hct,High blood pressure (combination pill not first choice),Valsartan Hctz
+"Vitamin D2 (ergocalciferol),Vitamin D3 (cholecalciferol),Calcitriol (Rocaltrol)","5.80,2.94,9.30","Vitamin D2, Drisdol",Dietary supplement,Lower-cost generic available,Ergocalciferol,Hypoparathyroidism (low parathyroid hormone levels),Vitamin D2
+"Valtrex (valacyclovir),Acyclovir (Zovirax),Famciclovir","16.20,3.13,14.70",Valtrex,Antiviral,Lower-cost generic available,Valacyclovir,Cold Sores ,Valacyclovir
+"Ultracet (tramadol / acetaminophen),Acetaminophen/codeine,Norco (hydrocodone / acetaminophen)","14.99,10.65,18.25",Ultracet,Opioid / Analgesic,Lower-cost generic available,Ultracet,Acute (short-term) pain,Ultracet
+,,,,,Wera,,Wera
+"Colesevelam (Welchol),Colestipol (Colestid),Cholestyramine (Prevalite)","29.71,22.94,33.02",Welchol,Bile acid sequestrant,Lower-cost generic available,Colesevelam,High cholesterol in adults,Welchol
+"Bupropion,Aplenzin (bupropion hydrobromide),Prozac (fluoxetine)","4.74,1588.20,3.30","Wellbutrin XL, Wellbutrin SR, Forfivo XL",Atypical antidepressant,Lower-cost generic available,Bupropion,Depression,Wellbutrin Sr
+,,,,,Wymzya Fe,,Wymzya Fe
+,,,,,Wp Thyroid,,Wp Thyroid
+"Xadago (safinamide),Rasagiline (Azilect),Selegiline","843.00,34.80,38.00",Xadago,MAO-B inhibitor,No lower-cost generic available,Xadago,Serotonin syndrome:,Xadago
+"Xopenex (levalbuterol),Albuterol (ProAir, Ventolin, Proventil)","32.39,19.05","Xopenex, Xopenex HFA",SABA,Lower-cost generic available,Levalbuterol,Asthma,Xopenex
+,,,,,Xeljanz Xr,,Xeljanz Xr
+,,,,,Xeljanz,,Xeljanz
+"Minocycline (Minocin),Ciprofloxacin (Cipro)","17.35,4.06","Minocin, Minolira, Solodyn, Ximino, Dynacin",Tetracycline antibiotic,Lower-cost generic available,Minocycline,Moderate to severe acne,Ximino
+,,,,,Xhance,,Xhance
+"Xultophy (insulin degludec / liraglutide),Soliqua (insulin glargine / lixisenatide)","1074.01,739.49",Xultophy,Insulin / GLP-1 agonist ,No lower-cost generic available,Xultophy,Insulin degludec,Xultophy
+"Orlistat,Qsymia (phentermine / topiramate ER),Contrave (naltrexone / bupropion)","46.59,192.81,149.45","Xenical, Alli",Lipase inhibitor,No lower-cost generic available,Alli,30 kg/m,Xenical
+"Xofluza (baloxavir marboxil),Tamiflu (oseltamivir),Relenza (zanamivir)","151.30,20.87,65.94",Xofluza,Antiviral,No lower-cost generic available,Xofluza,Flu treatment in people 12 years and older who've had flu symptoms for no more than 48 hours,Xofluza
+,,,,,Xerac Ac,,Xerac Ac
+"Xiidra (lifitegrast),Restasis (cyclosporine),Polyvinyl alcohol (Artificial Tears)","633.37,633.72,4.74",Xiidra,LFA-1 antagonist,No lower-cost generic available,Xiidra,Dry eye disease (DED),Xiidra
+"Xanax (alprazolam),Clonazepam (Klonopin)","6.30,5.02",Xanax,Benzodiazepine,Lower-cost generic available,Xanax,Anxiety Disorders,Xanax
+"Xigduo XR (dapagliflozin / metformin),Glucophage (metformin),Januvia (sitagliptin)","529.74,4.00,513.34",Xigduo XR,SGLT2 / Biguanide combo,No lower-cost generic available,Xigduo Xr,Type 2 diabetes,Xigduo Xr
+,,Xifaxan,Rifamycin antibiotic,No lower-cost generic available,Xifaxan,Traveler's diarrhea treatment,Xifaxan
+,,,,,Xulane,,Xulane
+"Xarelto (rivaroxaban),Warfarin (Coumadin),Eliquis (apixaban)","515.10,2.10,494.40",Xarelto,Anticoagulant,No lower-cost generic available,Xarelto,Lowering the risk of stroke and blood clots in people with an irregular heartbeat that isn't caused by a heart valve problem (,Xarelto
+"Yosprala (aspirin / omeprazole),Omeprazole (Prilosec),Clopidogrel (Plavix)","378.82,4.20,2.40",Yosprala,NSAID / PPI,Lower-cost generic available,Yosprala,Aspirin,Yosprala
+,,,,,Yasmin,,Yasmin
+,,,,,Yaz,,Yaz
+"Estradiol vaginal tablet (Vagifem),Estrace (estradiol),Estring (estradiol)","47.13,27.84,471.66","Vagifem, Yuvafem",Estrogen replacement,Lower-cost generic available,Vagifem,"Vaginal dryness, thinning, and irritation caused by menopause",Yuvafem
+"Everolimus (Zortress),Sirolimus (Rapamune),Mycophenolate (CellCept)","592.54,110.61,36.33",Zortress,Immunosuppressant,Lower-cost generic available,Zortress,Prevention of liver and kidney transplant rejection,Zortress
+"Diclofenac,Ibuprofen (Advil),Naproxen (Aleve)","9.60,4.50,2.20","Cambia, Cataflam, Zipsor, Zorvolex",NSAID,Lower-cost generic available,Voltaren,Mild to moderate pain ,Zorvolex
+,,"Pertzye, Zenpep, Creon, Pancreaze, Viokace", Enzyme,No lower-cost generic available,Pancrelipase,Pancreatic insufficiency (not enough digestive enzymes),Zenpep
+"Zylet (loteprednol / tobramycin),Pred-G (gentamicin / prednisolone),Tobradex (tobramycin / dexamethasone)","293.62,163.53,37.32",Zylet,Antibiotic / Corticosteroid,No lower-cost generic available,Zylet,Inflamed eyes that have a bacterial infection,Zylet
+"Dextroamphetamine (Dexedrine),Vyvanse (lisdexamfetamine),Methylphenidate (Ritalin)","17.55,348.93,17.00","ProCentra, Zenzedi, Dexedrine",Stimulant,Lower-cost generic available,Dextroamphetamine,Narcolepsy,Zenzedi
+"Zirgan (ganciclovir),Famciclovir,Valtrex (valacyclovir)","413.49,14.70,16.20",Zirgan,Antiviral,No lower-cost generic available,Zirgan,Herpes infection of the eye (acute herpetic keratitis),Zirgan
+"Zioptan (tafluprost),Lumigan (bimatoprost),Latanoprost (Xalatan)","165.64,33.66,10.88",Zioptan,Prostaglandin,No lower-cost generic available,Zioptan,High pressure in the eye caused by open-angle glaucoma (the most common type of glaucoma) or ocular hypertension (high pressure inside the eye),Zioptan
+,,,,,Zarah,,Zarah
+,,,,,Zovia,,Zovia
+"Zafirlukast (Accolate),Singulair (montelukast)","30.91,3.60",Accolate,Leukotriene receptor antagonist ,Lower-cost generic available,Zafirlukast,Asthma,Zafirlukast
+"Zyrtec-D (cetirizine / pseudoephedrine),Claritin-D (loratadine / pseudoephedrine),Allegra-D (fexofenadine / pseudoephedrine)","11.73,15.98,18.54",Zyrtec-D,Antihistamine / Decongestant,Lower-cost generic available,Zyrtec D,Seasonal allergies,Zyrtec D
+"Zolmitriptan (Zomig),Sumatriptan (Imitrex),Rizatriptan (Maxalt)","20.05,11.07,13.99","Zomig, Zomig ZMT",Triptan,Lower-cost generic available,Zolmitriptan,Short-term treatment of migraines,Zolmitriptan
+"Zaleplon (Sonata),Eszopiclone (Lunesta)","9.30,9.90",Sonata (brand no longer available),Sedative-hypnotic,Lower-cost generic available,Zaleplon,Short-term treatment of insomnia (up to 30 days),Zaleplon
+"Ziprasidone (Geodon),Aripiprazole (Abilify),Risperidone (Risperdal)","13.86,10.67,1.50",Geodon,Atypical antipsychotic,Lower-cost generic available,Ziprasidone,Bipolar I disorder,Ziprasidone
+"Zonisamide (Zonegran),Pregabalin (Lyrica),Lamotrigine (Lamictal)","15.84,12.50,4.50",Zonegran,Antiepileptic,Lower-cost generic available,Zonisamide,Partial seizure,Zonisamide
+,,,,,Zolpidem Er,,Zolpidem Er
+,,,,,Zolpidem,,Zolpidem
+"Isosorbide dinitrate (Isordil),Isosorbide mononitrate (Monoket),Atenolol (Tenormin)","28.06,12.60,3.30",Isordil,Vasodilator,Lower-cost generic available,Isosorbide Dinitrate,Chest pain caused by angina,Isosorbide Dinitrate
+"Imiquimod,Podofilox (Condylox)","15.04,27.73","Aldara, Zyclara",Topical skin product,Lower-cost generic available,Imiquimod,Face or scalp actinic keratosis (scaly precancerous spot or growth on the skin) in adults - ,Imiquimod
+"Humulin N (human insulin),Lantus (insulin glargine)","99.86,56.35","Humulin N, Humulin Kwikpen",Insulin,No lower-cost generic available,Humulin N,Type 1 diabetes,Humulin N
+"Gentamicin (Gentak),Ciloxan (ciprofloxacin),Tobramycin (Tobrex)","13.56,10.55,6.50",Gentak,Aminoglycoside antibiotic,Lower-cost generic available,Gentak,Bacterial infections of the eye or eyelid,Gentak
+"Fluvoxamine (Luvox),Paxil (paroxetine),Zoloft (sertraline)","22.82,3.60,2.40",Luvox,SSRI,Lower-cost generic available,Fluvoxamine,Obsessive-compulsive disorder (OCD),Fluvoxamine
+"Fludrocortisone,Prednisone,Prednisolone","12.88,2.00,8.04",Florinef (brand no longer available),Corticosteroid,Lower-cost generic available,Fludrocortisone,Addison's disease (adrenal insufficiency),Fludrocortisone
+,,"FluMist, Afluria, Fluzone, Fluzone High Dose, Flucelvax",Vaccine,No lower-cost generic available,Fluzone Quadrivalent,Flu prevention,Fluarix Quadrivalent
+,,,,,Fluorouracil,,Fluorouracil
+,,,,,Enskyce,,Enskyce
+"Divalproex (Depakote),Lamotrigine (Lamictal),Topiramate (Topamax)","15.00,4.50,1.80","Depakote, Depakote ER, Depakote Sprinkles",Antiepileptic,Lower-cost generic available,Divalproex,Mania caused by bipolar disorder,Divalproex
+"Dexmethylphenidate (Focalin),Vyvanse (lisdexamfetamine),Methylphenidate (Ritalin)","17.77,348.93,17.00","Focalin, Focalin XR",Stimulant,Lower-cost generic available,Dexmethylphenidate,Attention-deficit/hyperactivity disorder (ADHD),Dexmethylphenidate
+"Diltiazem extended-release,Nifedipine (Procardia XL),Lisinopril (Prinivil, Zestril)","8.26,9.54,3.00","Cardizem LA, Cartia XT, Dilt-XR, Cardizem SR, Tiazac",Calcium channel blocker (CCB),Lower-cost generic available,Cartia Xt,High blood pressure (hypertension),Diltiazem Er  Cardizem Cd
+"Diethylpropion,Phentermine (Adipex-P),Phendimetrazine","19.84,8.04,5.48",Tenuate (brand no longer available),Sympathomimetic Amine,Lower-cost generic available,Diethylpropion,Obesity,Diethylpropion
+"Dorzolamide (Trusopt),Timolol (Timoptic),Brimonidine (Alphagan P)","14.48,5.64,6.64",Trusopt,Carbonic anhydrase inhibitor,Lower-cost generic available,Dorzolamide,High pressure in the eye caused by ocular hypertension (high pressure inside the eye) or open-angle glaucoma (the most common type of glaucoma),Dorzolamide
+"Chlorthalidone,Hydrochlorothiazide (Microzide),Lisinopril (Prinivil, Zestril)","9.99,2.10,3.00",None available,Diuretic (water pill),Lower-cost generic available,Chlorthalidone,Hypertension (high blood pressure),Chlorthalidone
+,,"Peridex, Paroex, Periogard",Antibacterial,Lower-cost generic available,Chlorhexidine,Gingivitis,Chlorhexidine
+"Colchicine (Colcrys),Indomethacin (Indocin),Allopurinol (Zyloprim)","12.00,6.90,2.40","Colcrys, Mitigare",Antigout,Lower-cost generic available,Colchicine,Gout treatment and prevention,Colchicine
+"Clobetasol (Clobex),Halobetasol (Ultravate)","16.56,41.12","Clobex, Olux, Temovate, Impeklo, Impoyz",Corticosteroid,Lower-cost generic available,Clobetasol,Plaque psoriasis not on the scalp - ,Clobetasol
+"Clomiphene,Follistim AQ (follitropin beta),Gonal-f (follitropin alfa)","23.24,299.80,1317.32",Clomid (brand no longer available),Selective estrogen receptor modulator,Lower-cost generic available,Clomiphene,Female infertility,Clomiphene
+"Vitamin B12 (cyanocobalamin),Folic acid","5.27,2.40","Vibisone, Nascobal",Dietary supplement,Lower-cost generic available,Cyanocobalamin,Low levels of vitamin B12 ,Cyanocobalamin
+"Catapres (clonidine),Hydralazine,Minipress (prazosin)","3.60,3.60,10.99","Catapres, Catapress-TTS",Alpha agonist,Lower-cost generic available,Clonidine,High blood pressure (hypertension),Clonidine
+"Coreg (Carvedilol),Lopressor (metoprolol tartrate),Propranolol (Inderal)","4.00,3.60,5.40","Coreg, Coreg CR",Beta blocker,Lower-cost generic available,Carvedilol,High blood pressure,Carvedilol
+"Soma (carisoprodol),Cyclobenzaprine,Metaxalone (Skelaxin)","7.60,3.60,48.67",Soma,Muscle relaxant,Lower-cost generic available,Carisoprodol,Muscle discomfort caused by acute (not chronic) conditions,Carisoprodol
+"Celecoxib (Celebrex),Naproxen (Aleve),Indomethacin (Indocin)","6.00,2.20,6.90",Celebrex,COX-2 selective NSAID,Lower-cost generic available,Celecoxib,Acute pain (pain that's not chronic),Celecoxib
+"Cefdinir,Cefuroxime,Augmentin (amoxicillin / clavulanate)","14.60,13.20,12.75",Omnicef (brand no longer available),Cephalosporin antibiotic,Lower-cost generic available,Cefdinir,Pneumonia,Cefdinir
+"Ciprofloxacin (Cipro),Levofloxacin,Augmentin (amoxicillin / clavulanate)","4.06,3.70,12.75","Cipro, Cipro XR",Fluoroquinolone antibiotic,Lower-cost generic available,Ciprofloxacin,Skin infections,Ciprofloxacin
+"Celexa (citalopram),Lexapro (escitalopram),Zoloft (sertraline)","3.00,3.60,2.40",Celexa,SSRI,Lower-cost generic available,Citalopram,Depression,Citalopram
+"Clopidogrel (Plavix),Brilinta (ticagrelor),Effient (prasugrel)","2.40,379.20,15.29",Plavix,Antiplatelet,Lower-cost generic available,Clopidogrel,Heart attack prevention,Clopidogrel
+"Cephalexin (Keflex),Cefadroxil,Cefuroxime","3.64,8.40,13.20",Keflex,Cephalosporin antibiotic,Lower-cost generic available,Cephalexin,Respiratory tract infections,Cephalexin
+"Clindamycin (Cleocin),Amoxicillin (Amoxil),Azithromycin (Zithromax)","12.18,4.83,7.10",Cleocin,Lincosamide antibiotic,Lower-cost generic available,Clindamycin,Skin infections,Clindamycin
+"Cyclobenzaprine,Soma (carisoprodol),Tizanidine (Zanaflex)","3.60,7.60,8.09","Flexeril (brand no longer available), Fexmid, Amrix",Muscle relaxant,Lower-cost generic available,Cyclobenzaprine,Muscle discomfort caused by acute (not chronic) conditions when things like rest or physical therapy aren't enough on their own,Cyclobenzaprine
+"Dexamethasone,Prednisone,Methylprednisolone (Medrol)","7.18,2.00,7.59",Taperdex,Corticosteroid,Lower-cost generic available,Dexamethasone,Allergies,Dexamethasone
+"Digoxin (Lanoxin),Toprol XL (metoprolol succinate),Lopressor (metoprolol tartrate)","9.00,4.35,3.60","Lanoxin, Digitek",Antiarrhythmic,Lower-cost generic available,Digoxin,Heart failure in adults and children,Digoxin
+,,,,,Drospirenone Ethinyl Estradiol,,Drospirenone Ethinyl Estradiol
+"Donepezil (Aricept),Rivastigmine (Exelon),Memantine (Nameda)","2.40,65.50,12.00",Aricept,Cholinesterase inhibitor,Lower-cost generic available,Donepezil,Dementia related to Alzheimer's disease (AD),Donepezil
+,,,,,Doxepin,,Doxepin
+"Cosopt (dorzolamide / timolol),Dorzolamide (Trusopt),Timolol (Timoptic)","13.38,14.21,5.64","Cosopt, Cosopt PF",Carbonic anydrase inhibitor / Beta blocker,Lower-cost generic available,Cosopt,High pressure in the eye caused by ocular hypertension (high pressure inside the eye) or open-angle glaucoma (the most common type of glaucoma),Dorzolamide Timolol
+"Dicyclomine,Hyoscyamine (Levsin)","13.20,6.30",Bentyl (brand no longer available),Anticholinergic,Lower-cost generic available,Dicyclomine,Irritable bowel syndrome (IBS),Dicyclomine
+,,,,,Doxycycline Monohydrate,,Doxycycline Monohydrate
+"Pristiq (desvenlafaxine),Cymbalta (duloxetine),Venlafaxine (Effexor)","20.83,5.43,6.60","Pristiq, Khedezla",SNRI,Lower-cost generic available,Pristiq,Depression,Desvenlafaxine Succinate Er
+"Diazepam (Valium),Clonazepam (Klonopin)","5.04,5.02","Valium, Diazepam Intensol",Benzodiazepine,Lower-cost generic available,Diazepam,Anxiety disorders,Diazepam
+"Diclofenac eye drops,Acular (ketorolac eye drops),Bromfenac (Prolensa)","9.75,11.46,51.07",Voltaren (brand no longer available),NSAID,Lower-cost generic available,Diclofenac Sodium,"Pain, swelling, and redness (inflammation) in the eye after cataract surgery",Diclofenac Sodium
+,,,,,Doxycycline Hyclate,,Doxycycline Hyclate
+"Cymbalta (duloxetine),Lexapro (escitalopram),Prozac (fluoxetine)","5.43,3.60,3.30",Cymbalta,SNRI,Lower-cost generic available,Cymbalta,Depression,Duloxetine
+"Econazole,Nystatin,Lotrimin AF (clotrimazole)","25.11,6.46,6.99","Ecoza, Spectazole",Antifungal,Lower-cost generic available,Econazole,Athlete's foot (tinea pedis) - ,Econazole
+,,,,,Ethinyl Estradiol Levonorgestrel,,Ethinyl Estradiol Levonorgestrel
+"Eletriptan (Relpax),Sumatriptan (Imitrex),Rizatriptan (Maxalt)","21.54,11.07,13.99",Relpax,Triptan,Lower-cost generic available,Relpax,Short-term treatment of migraines in adults,Eletriptan
+,,,,,Ethinyl Estradiol Norethindrone,,Ethinyl Estradiol Norethindrone
+"Activella (estradiol / norethindrone),Estradiol,Prempro (conjugated estrogens / medroxyprogesterone)","21.32,26.58,208.88","Activella, Amabelz, Lopreeza, Mimvey",Estrogen replacement / Progestin,Lower-cost generic available,Activella,Estradiol,Estradiol Norethindrone
+"Etodolac,Nabumetone,Tolmetin ","13.75,11.97,21.05",Lodine (brand no longer available),NSAID,Lower-cost generic available,Etodolac,Acute (sudden onset) pain (immediate-release version only),Etodolac
+,,,,,Estarylla,,Estarylla
+,,,,,Epinephrine Epipen,,Epinephrine Epipen
+"Eliquis (apixaban),Warfarin (Coumadin)","494.40,2.10",Eliquis,Anticoagulant,No lower-cost generic available,Eliquis,Lowering the risk of a stroke or blood clots due to an irregular heartbeat that isn't caused by the valves in your heart,Eliquis
+"Lovenox (enoxaparin),Xarelto (rivaroxaban),Eliquis (apixaban)","70.70,515.10,494.40",Lovenox,Anticoagulant,Lower-cost generic available,Enoxaparin,"Blood clot prevention after abdominal surgery, after hip or knee replacement surgery, or when you are very sick and bedridden",Enoxaparin
+"Erythromycin,Ciloxan (ciprofloxacin),Polytrim (polymyxin B / trimethoprim)","11.10,10.55,9.33",Ilotycin (brand no longer available),Macrolide antibiotic,Lower-cost generic available,Erythromycin,Bacterial eye infections,Erythromycin
+"Covaryx (esterified estrogens / methyltestosterone),Estradiol,Activella (estradiol / norethindrone)","83.52,29.86,20.24","Covaryx, Covaryx HS, EEMT, EEMT HS",Estrogen replacement / Testosterone replacement,No lower-cost generic available,Covaryx,Esterified estrogens,Esterified Estrogens Methyltestosterone
+"Enalapril (Vasotec),Lisinopril (Prinivil, Zestril),Benazepril (Lotensin)","8.40,3.00,3.30","Vasotec, Epaned",ACE inhibitor,Lower-cost generic available,Enalapril,High blood pressure,Enalapril
+"Esomeprazole (Nexium),Protonix (pantoprazole),Omeprazole (Prilosec)","10.55,3.90,4.20",Nexium,PPI,Lower-cost generic available,Esomeprazole,Gastroesophageal reflux disease (GERD),Esomeprazole
+"Eszopiclone (Lunesta),Temazepam (Restoril)","9.90,5.97",Lunesta,Sedative-hypnotic,Lower-cost generic available,Eszopiclone,Insomnia (trouble falling or staying asleep),Eszopiclone
+"Zetia (ezetimibe),Atorvastatin (Lipitor),Simvastatin (Zocor)","7.50,4.50,2.40",Zetia,Cholesterol absorption inhibitor,Lower-cost generic available,Ezetimibe,High cholesterol,Ezetimibe
+"Estradiol,Estrace (estradiol),Premarin (conjugated estrogens)","7.20,27.84,180.38",Estrace,Estrogen replacement,Lower-cost generic available,Estradiol,Hot flashes and night sweats due to menopause,Estradiol
+"Lexapro (escitalopram),Zoloft (sertraline),Prozac (fluoxetine)","3.60,2.40,3.30",Lexapro,SSRI,Lower-cost generic available,Lexapro,Depression,Escitalopram
+,,,,,,,Freestyle Libre
+"Fluorometholone,Dexamethasone (Maxidex),Prednisolone (Pred Forte)","25.38,81.17,23.93","FML, FML Forte, Flarex",Corticosteroid,Lower-cost generic available,Fluorometholone,Eye inflammation conditions,Fluorometholone
+"Flecainide,Toprol XL (metoprolol succinate),Diltiazem (Cardizem)","20.40,4.35,12.30",Tambocor (brand no longer available),Antiarrhythmic,Lower-cost generic available,Flecainide,Prevention of paroxysmal supraventricular tachycardias (PSVT),Flecainide
+,,"Advair Diskus, Advair HFA, AirDuo RespiClick, AirDuo Digihaler, Wixela Inhub",ICS / LABA combo,Lower-cost generic available,Fluticasone Salmeterol,Asthma,Fluticasone Salmeterol
+"Fluocinonide (Vanos),Triamcinolone (Trianex),Fluticasone (topical)","17.45,3.03,11.22",Vanos,Corticosteroid,Lower-cost generic available,Fluocinonide,"Skin inflammation disorders, including psoriasis, eczema, and seborrheic dermatitis",Fluocinonide
+"Famotidine (Pepcid AC),Omeprazole (Prilosec),Lansoprazole (Prevacid)","12.33,4.20,7.20","Pepcid AC, Zantac 360",Histamine H2 antagonist,Lower-cost generic available,Famotidine,Gastric (stomach) ulcer,Famotidine
+"Fentanyl,Buprenorphine (Butrans),Hydromorphone (Dilaudid)","25.71,97.85,10.42",Duragesic (brand no longer available),Opioid,Lower-cost generic available,Fentanyl,"Severe, long-term pain in people 2 years and older",Fentanyl
+,,,,,Ferrous Sulfate,,Ferrous Sulfate
+"Fenofibrate,Atorvastatin (Lipitor),Zetia (ezetimibe)","5.10,4.50,7.50","Fibricor, Trilipix, Antara, Tricor, Lipofen",Fibrate,Lower-cost generic available,Fenofibrate,Add-on to diet for treatment of high triglycerides,Fenofibrate
+"Folic acid,Vitamin B12 (cyanocobalamin),Leucovorin","2.40,5.27,12.13","FA-8, Folacin-800, Nature's Blend Folic Acid, Nature's Bounty Folic Acid, CVS Health Folic Acid",Dietary Supplement,Lower-cost generic available,Folic Acid,Low red blood cell counts (anemia) due to low levels of folic acid (,Folic Acid
+,,Lasix,Diuretic (water pill),Lower-cost generic available,Furosemide,"Swelling (edema) due to heart failure, liver disease, or kidney disease",Furosemide
+"Flonase (fluticasone),Nasonex (mometasone),Flunisolide","13.47,31.21,26.24","Flonase Allergy Relief, ClariSpray",Corticosteroid,Lower-cost generic available,Flonase,Nasal allergy relief,Fluticasone Propionate
+,,Diflucan,Antifungal,Lower-cost generic available,Fluconazole,Vaginal yeast infection caused by ,Fluconazole
+,,Propecia,5-alpha reductase inhibitor,Lower-cost generic available,Propecia,Lower libido (2%),Finasteride
+"Prozac (fluoxetine),Cymbalta (duloxetine),Lexapro (escitalopram)","3.30,5.43,3.60",Prozac,SSRI,Lower-cost generic available,Prozac,Depression,Fluoxetine
+"PEG 3350/electrolytes bowel prep,OsmoPrep (sodium phosphate),Sutab","12.24,239.36,129.05","Golytely, Nulytely, Moviprep, Plenvu, Gavilyte",Osmotic laxative,Lower-cost generic available,Peg 3350 And Electrolytes,Polyethylene glycol 3350 (PEG),Gavilyte N
+"Glipizide/metformin,Metformin ER (Glucophage XR),Amaryl (glimepiride)","36.67,8.31,12.60",Metaglip (brand no longer available),Sulfonylurea / Biguanide,Lower-cost generic available,Glipizide Metformin,Glipizide,Glipizide Metformin
+"Griseofulvin,Lamisil (terbinafine),Ketoconazole cream","47.35,13.50,24.05",Gris-PEG (ultramicrosize),Antifungal,Lower-cost generic available,Griseofulvin Microsize,"Fungal infections of the skin, hair, and nails",Griseofulvin Microsize
+"Glyburide/metformin,Glipizide/metformin,Diabeta (glyburide)","19.76,36.67,13.54",Glucovance (brand no longer available),Sulfonylurea / Biguanide,Lower-cost generic available,Glucovance,Glyburide,Glyburide Metformin
+,,"Robinul, Robinul Forte, Glycate ",Anticholinergic,Lower-cost generic available,Glycopyrrolate,Add-on treatment for stomach ulcers,Glycopyrrolate
+"Gatifloxacin (Zymaxid),Levofloxacin (eye drop),Ciloxan (ciprofloxacin)","28.11,28.75,10.55",Zymaxid,Fluoroquinolone antibiotic,Lower-cost generic available,Gatifloxacin,Bacterial conjunctivitis (pink eye),Gatifloxacin
+"Guanfacine,Catapres (clonidine),Methyldopa","12.68,3.60,12.26",Tenex (brand no longer available),Alpha-2 adrenergic receptor agonist,Lower-cost generic available,Guanfacine,High blood pressure,Guanfacine
+,,,,,Gianvi,,Gianvi
+"Guanfacine ER (Intuniv),Atomoxetine (Strattera),Clonidine ER (Kapvay)","12.77,31.30,17.60",Intuniv,Alpha 2A-adrenergic receptor agonist,Lower-cost generic available,Guanfacine Er,Attention-deficit hyperactivity disorder (ADHD),Guanfacine Er
+"Gemfibrozil (Lopid),Fenofibrate,Antara (fenofibrate)","9.00,5.10,7.80",Lopid,Fibrate,Lower-cost generic available,Gemfibrozil,High triglycerides (fats),Gemfibrozil
+"Glucotrol (glipizide),Diabeta (glyburide),Actos (pioglitazone)","3.60,13.54,8.10","Glucotrol, Glucotrol XL",Sulfonylurea,Lower-cost generic available,Glipizide,Type 2 diabetes,Glipizide Er
+"Diabeta (glyburide),Glucotrol (glipizide),Amaryl (glimepiride)","13.54,3.60,12.60","Diabeta, Glynase",Sulfonylurea,Lower-cost generic available,Glyburide,Type 2 diabetes,Glyburide
+"Amaryl (glimepiride),Glucotrol (glipizide),Diabeta (glyburide)","12.60,3.60,13.54",Amaryl,Sulfonylurea,Lower-cost generic available,Glimepiride,Type 2 diabetes,Glimepiride
+"Gabapentin (Neurontin),Pregabalin (Lyrica),Cymbalta (duloxetine)","10.40,12.50,5.43",Neurontin,Antiepileptic,Lower-cost generic available,Gabapentin,Nerve pain from shingles,Gabapentin
+"Hydromet (hydrocodone / homatropine),Benzonatate (Tessalon),Dextromethorphan (Delsym)","16.38,6.30,6.07","Hydromet, Hycodan, Tussigon",Opioid / Anticholinergic,Lower-cost generic available,Hydromet,Hydrocodone,Hydromet
+"Haloperidol,Quetiapine (Seroquel),Fluphenazine","12.69,3.90,53.43",Haldol (brand no longer available),First generation (typical) antipsychotic,Lower-cost generic available,Haloperidol,Psychotic and behavioral disorders,Haloperidol
+"Hydrocodone/ibuprofen,Norco (hydrocodone / acetaminophen)","34.54,18.25",Vicoprofen (brand no longer available),Opioid / NSAID,Lower-cost generic available,Hydrocodone Ibuprofen,Hydrocodone,Hydrocodone Ibuprofen
+"Hyoscyamine (Levsin),Dicyclomine","6.30,13.20","Levsin, Anaspaz, Hyosyne, Symax, Ed-Spaz",Anticholinergic,Lower-cost generic available,Hyoscyamine,"Digestive tract disorders (e.g., stomach ulcers, stomach cramps, irritable bowel syndrome)",Hyoscyamine Er
+"Pramosone (hydrocortisone / pramoxine),Ana-Lex (lidocaine / hydrocortisone)","266.27,4.62","Analpram HC, Epifoam, Novacort, Pramosone, Proctofoam HC",Corticosteroid / Local anesthetic,Lower-cost generic available,Analpram Hc,Hydrocortisone,Hydrocortisone Pramoxine
+"Humalog (insulin lispro),Lantus (insulin glargine)","43.43,56.35","Humalog, Humalog Kwikpen, Humalog Junior Kwikpen",Insulin,Lower-cost generic available,Humalog,Type 1 diabetes,Humalog
+"Hydrocortisone (Anusol-HC),Cortifoam (hydrocortisone),Hydrocortisone (Cortenema)","12.80,393.96,148.73","Anucort HC, Anusol HC, Proctocort, Rectacort HC, Hemmorex-HC, Micort-HC",Corticosteroid,Lower-cost generic available,Anusol Hc,Hemorrhoids,Hydrocortisone Acetate
+"Hydromorphone (Dilaudid),Oxycodone,Morphine","10.42,15.79,20.03",Dilaudid,Opioid,Lower-cost generic available,Hydromorphone,Pain management,Hydromorphone
+"Hydrocodone / chlorpheniramine,Hydromet (hydrocodone / homatropine),Zutripro","174.07,8.50,45.74","TussiCaps, Tussionex Pennkinetic ER (brand no longer available)",Opioid / Antihistamine,No lower-cost generic available,Hydrocodone Chlorpheniramine,"Coughing, sneezing, and runny nose caused by allergies or the common cold",Hydrocodone Chlorpheniramine
+,,,,,,,Integra
+"Hydrocortisone,Fluocinolone (Synalar),Desonide (Desonate)","26.59,15.62,14.99","Locoid, Pandel, Texacort",Corticosteroid,Lower-cost generic available,Hydrocortisone,Inflammatory skin conditions,Hydrocortisone
+"Hydralazine,Lisinopril (Prinivil, Zestril),Hydrochlorothiazide (Microzide)","3.60,3.00,2.10",Apresoline (brand no longer available),Vasodilator,Lower-cost generic available,Hydralazine,High blood pressure,Hydralazine
+,,,,,Hydroquinone,,Hydroquinone
+,,,,,Hydroxyzine Pamoate,,Hydroxyzine Pamoate
+"Plaquenil (hydroxychloroquine),Chloroquine","13.41,62.11",Plaquenil,Anti-malarial agent,Lower-cost generic available,Hydroxychloroquine,Malaria,Hydroxychloroquine
+,,,,,,,Integra Plus
+,,,,,Hydroxyzine Hydrochloride,,Hydroxyzine Hydrochloride
+"Hydrochlorothiazide (Microzide),Norvasc (amlodipine),Lisinopril (Prinivil, Zestril)","2.10,3.30,3.00",Microzide,Diuretic (water pill),Lower-cost generic available,Hydrochlorothiazide,High blood pressure (hypertension),Hydrochlorothiazide
+"Norco (hydrocodone / acetaminophen),Percocet (oxycodone / acetaminophen),Hydrocodone/ibuprofen","18.25,10.06,34.54","Norco, Vicodin, Lortab, Lorcet, Xodol",Opioid,Lower-cost generic available,Norco,Moderate to severe pain,Hydrocodone Acetaminophen
+"Irbesartan (Avapro),Losartan (Cozaar),Lisinopril (Prinivil, Zestril)","9.00,4.38,3.00",Avapro,ARB,Lower-cost generic available,Irbesartan,High blood pressure,Irbesartan
+,,,,,Introvale,,Introvale
+"Indapamide,Hydrochlorothiazide (Microzide),Furosemide (Lasix)","3.60,2.10,2.40",Lozol (brand no longer available),Diuretic (water pill),Lower-cost generic available,Indapamide,High blood pressure (hypertension),Indapamide
+,,Midrin (brand no longer available),Sympathomimetic / Sedative / Analgesic,No lower-cost generic available,Isometheptene Dichloralphenazone Acetaminophen,,Isometheptene Dichloralphenazone  Acetaminophen
+"Indomethacin (Indocin),Celecoxib (Celebrex)","6.90,6.00","Indocin, Tivorbex",NSAID,Lower-cost generic available,Indomethacin,Pain caused by osteoarthritis,Indomethacin Er
+,,,,,Isibloom,,Isibloom
+,,,,,Itraconazole,,Itraconazole
+,,Stromectol,Antiparasitic,Lower-cost generic available,Ivermectin,Strongyloidiasis (stomach worms caused by ,Ivermectin
+"Imipramine,Amitriptyline,Nortriptyline (Pamelor)","7.20,2.40,3.30",Tofranil,Tricyclic antidepressant,Lower-cost generic available,Tofranil,Depression,Imipramine Hydrochloride
+"Ibandronate (Boniva),Alendronate (Fosamax),Risedronate (Actonel)","13.65,12.21,49.99",Boniva,Bisphosphonate,Lower-cost generic available,Ibandronate,Osteoporosis in women who have gone through menopause (postmenopause),Ibandronate
+"Avalide (irbesartan / hydrochlorothiazide),Hyzaar (losartan / hydrochlorothiazide),Diovan HCT","8.50,12.62,18.49",Avalide,ARB / Diuretic (water pill),Lower-cost generic available,Irbesartan Hctz,Irbesartan,Irbesartan Hctz
+"Isosorbide mononitrate (Monoket),Isosorbide dinitrate (Isordil),Atenolol (Tenormin)","12.60,27.78,3.30","Monoket, Imdur (discontinued)",Vasodilator,Lower-cost generic available,Isosorbide Mononitrate,Angina (a specific type of chest pain) caused by heart disease,Isosorbide Mononitrate Er
+"Nebulized ipratropium,Spiriva (tiotropium),Atrovent (ipratropium)","19.49,489.43,439.26",N/A,SAMA,Lower-cost generic available,Ipratropium,Chronic obstructive pulmonary disease (COPD),Ipratropium
+"Duoneb (ipratropium / albuterol),Nebulized ipratropium,Theophylline","12.88,19.49,35.85",Duoneb (brand no longer available),SAMA / SABA,Lower-cost generic available,Duoneb,Ipratropium,Ipratropium Albuterol
+"Ibuprofen (Advil),Naproxen (Aleve),Meloxicam (Mobic)","4.50,2.20,2.40","Advil, Motrin IB, Advil Migraine, Children's Motrin, Children's Advil",NSAID,Lower-cost generic available,Ibuprofen,Headaches and migraines,Ibuprofen
+"Bystolic (nebivolol),Lopressor (metoprolol tartrate),Coreg (Carvedilol)","29.38,3.60,4.00",Bystolic,Beta blocker,Lower-cost generic available,Nebivolol,High blood pressure,Bystolic
+"Ziac (bisoprolol / hydrochlorothiazide),Zestoretic,Diovan HCT","13.66,3.60,18.49",Ziac,Beta blocker / diuretic (water pill),Lower-cost generic available,Ziac,High blood pressure,Bisoprolol Hctz
+,,,,,Blisovi Fe 1 20,,Blisovi Fe 1 20
+"Fioricet with Codeine,Fioricet,Fiorinal (butalbital / aspirin / caffeine)","18.26,10.20,20.73",Fioricet with Codeine ,Barbiturate / Analgesic / Adenosine antagonist / Opioid,Lower-cost generic available,Fioricet With Codeine,Butalbital,Butalbital Acetaminophen  Caffeine  Codeine
+,,,,,Betamethasone Dipropionate,,Betamethasone Dipropionate
+,,,,,Budesonide,,Budesonide
+,,"Astepro, Astelin",Antihistamine,Lower-cost generic available,Azelastine,Allergies,Azelastine
+"Armodafinil (Nuvigil),Modafinil (Provigil),Adderall IR","32.19,22.95,11.41",Nuvigil,Wakefulness-promoting agent,Lower-cost generic available,Armodafinil,"Excessive sleepiness due to narcolepsy, shift work disorder, or obstructive sleep apnea",Armodafinil
+"Anastrozole (Arimidex),Letrozole (Femara)","6.00,7.20",Arimidex,Aromatase inhibitor,Lower-cost generic available,Anastrozole,Breast cancer in postmenopausal women,Anastrozole
+"Lotrel (amlodipine / benazepril),Twynsta (telmisartan / amlodipine),Azor (amlodipine / olmesartan)","5.40,41.72,18.03",Lotrel,CCB/ACE inhibitor combo,Lower-cost generic available,Lotrel,Amlodipine,Amlodipine Benazepril
+"Amitriptyline,Nortriptyline (Pamelor),Cymbalta (duloxetine)","2.40,3.30,5.43",Elavil (brand no longer available),Tricyclic antidepressant,Lower-cost generic available,Amitriptyline,Depression,Amitriptyline
+"Atenolol (Tenormin),Lopressor (metoprolol tartrate),Bisoprolol","3.30,3.60,9.00",Tenormin,Beta blocker,Lower-cost generic available,Atenolol,High blood pressure,Atenolol
+"Allopurinol (Zyloprim),Colchicine (Colcrys),Indomethacin (Indocin)","2.40,12.00,6.90",Zyloprim,Antigout,Lower-cost generic available,Allopurinol,Gout,Allopurinol
+"Acyclovir (Zovirax),Valtrex (valacyclovir),Famciclovir","3.13,16.20,14.70","Zovirax, Sitavig",Antiviral,Lower-cost generic available,Acyclovir,Genital herpes,Acyclovir
+"Aripiprazole (Abilify),Quetiapine (Seroquel),Olanzapine (Zyprexa)","10.67,3.90,4.50",Abilify,Atypical antipsychotic,Lower-cost generic available,Aripiprazole,Schizophrenia,Aripiprazole
+"Acetaminophen/codeine,Norco (hydrocodone / acetaminophen)","10.65,18.25",Tylenol with Codeine #3 (brand no longer available),Analgesic / Opioid,Lower-cost generic available,Acetaminophen Codeine,Mild to moderate pain,Acetaminophen Codeine
+"Augmentin (amoxicillin / clavulanate),Amoxicillin (Amoxil)","12.75,4.83","Augmentin, Augmentin XR",Penicillin antibiotic / Beta-lactamase inhibitor,Lower-cost generic available,Augmentin,Inner ear infection ,Amoxicillin Potassium Clavulanate
+"Amoxicillin (Amoxil),Augmentin (amoxicillin / clavulanate)","4.83,12.75",Amoxil (brand no longer available),Penicillin antibiotic,Lower-cost generic available,Amoxicillin,"Ear, nose, and throat infections ",Amoxicillin
+"Azithromycin (Zithromax),Augmentin (amoxicillin / clavulanate),Amoxicillin (Amoxil)","7.10,12.75,4.83","Zithromax, Zithromax Tri-Pack, Zithromax Z-Pak",Macrolide antibiotic,Lower-cost generic available,Azithromycin,Middle ear infections in children,Azithromycin
+"Adderall XR,Vyvanse (lisdexamfetamine)","27.75,348.93",Adderall XR,Central Nervous System Stimulants,Lower-cost generic available,Adderall Xr,Attention-deficit/hyperactivity disorder (ADHD),Amphetamine Salt Combo Xr
+"Norvasc (amlodipine),Losartan (Cozaar),Lisinopril (Prinivil, Zestril)","3.30,4.38,3.00",Norvasc,Calcium channel blocker (CCB),Lower-cost generic available,Amlodipine,High blood pressure (hypertension),Amlodipine
+"Atorvastatin (Lipitor),Simvastatin (Zocor),Rosuvastatin (Crestor)","4.50,2.40,4.20",Lipitor,Statin,Lower-cost generic available,Atorvastatin,High cholesterol,Atorvastatin
+"Adderall IR,Adderall XR,Vyvanse (lisdexamfetamine)","11.41,27.75,348.93",Adderall,Central Nervous System Stimulants,Lower-cost generic available,Adderall,Attention-deficit/hyperactivity disorder (ADHD),Amphetamine Salt Combo
+"Bumetanide (Bumex),Furosemide (Lasix)","9.80,2.40",Bumex,Diuretic (water pill),Lower-cost generic available,Bumetanide,"Swelling (edema) due to congestive heart failure, liver disease, or kidney disease",Bumetanide
+"Brimonidine (Alphagan P),Dorzolamide (Trusopt),Timolol (Timoptic)","46.04,14.21,5.64","Alphagan P, Qoliana, Lumify (OTC)",Alpha agonist,Lower-cost generic available,Brimonidine,High pressure in the eye caused by open-angle glaucoma (the most common type of glaucoma) or ocular hypertension (high pressure inside the eye) - ,Brimonidine
+"Benazepril (Lotensin),Lisinopril (Prinivil, Zestril)","3.30,3.00",Lotensin,ACE inhibitor,Lower-cost generic available,Benazepril,"Angioedema (swelling of the face, lips, throat)",Benazepril
+"Baclofen,Cyclobenzaprine,Tizanidine (Zanaflex)","13.62,3.60,8.09","Ozobax, Lioresal (brand no longer available)",Muscle relaxant,Lower-cost generic available,Baclofen,Muscle spasms related to multiple sclerosis and spinal cord injuries,Baclofen
+"Bromfed DM,Zutripro","9.00,45.74",Bromfed DM,Antihistamine / Cough suppressant / Decongestant,Lower-cost generic available,Bromfed Dm,"Coughing, sneezing, and nasal congestion caused by allergies or the common cold",Brompheniramine Dextromethorphan  Pseudoephedrine
+"Buspirone,Xanax (alprazolam),Lexapro (escitalopram)","3.60,6.30,3.60",Buspar (brand no longer available),Antianxiety,Lower-cost generic available,Buspirone,Anxiety,Buspirone
+"Fioricet,Fiorinal (butalbital / aspirin / caffeine),Bupap (butalbital / acetaminophen)","10.20,20.73,17.07","Fioricet, Esgic, Zebutal, Vanatol LQ",Barbiturate / Analgesic / Adenosine antagonist,Lower-cost generic available,Fioricet,Butalbital,Butalbital Acetaminophen  Caffeine
+"Benzonatate (Tessalon),Dextromethorphan (Delsym),Mucinex DM (guaifenesin / dextromethorphan)","6.30,6.07,11.91",Tessalon,Antitussive,Lower-cost generic available,Benzonatate,Cough,Benzonatate
+,,Latisse,Prostaglandin,Lower-cost generic available,Latisse,Low growth of eyelashes,Latisse
+,,,,,Buprenorphine,,Buprenorphine
